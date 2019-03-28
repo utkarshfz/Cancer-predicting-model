@@ -1,0 +1,1 @@
+clump_thickness,unif_cell_size,unif_cell_shape,marg_adhesion,single_epith_size,bare_nuclei,bland_chrom,norm_nucleolimitoses,class
